@@ -1,4 +1,4 @@
-# Summarizer Mcp
+Summarizer Mcp
 
 ## Core Note Functions:
 
